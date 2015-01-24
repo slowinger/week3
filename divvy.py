@@ -1,6 +1,6 @@
-# Divvy Bikes
-#
-# Here's an example of how to retrieve the list of Divvy bike stations:
+# Divvy Bike problem
+# Week3 Assignment
+#By: Stephen Lowinger
 
 import json
 from math import sqrt
