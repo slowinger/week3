@@ -1,4 +1,8 @@
-﻿
+﻿# Blackjack game
+# Week3 Assignment
+# By: Stephen Lowinger
+
+
 import random
 from time import sleep
 
